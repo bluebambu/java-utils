@@ -1,1 +1,3 @@
-- java keystore: https://www.liaoxuefeng.com/wiki/1252599548343744/1304227968188450
+- java keystore basic usage: https://www.liaoxuefeng.com/wiki/1252599548343744/1304227968188450
+- openssl & keytool for checking certs:  https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/
+- 
